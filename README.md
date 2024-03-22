@@ -107,7 +107,8 @@ RegisterNumber: 212223040174
 ![313689815-cf69d021-d760-4687-8f4a-662494b8aa55](https://github.com/Hezron-lix/ENCODER8TO3DATAFLOW/assets/139331337/96b35e6c-8d70-4a8c-9f00-6448f0401e4a)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![313689282-f8c32fd4-98f5-42e1-83cf-18ab7527e131](https://github.com/Hezron-lix/ENCODER8TO3DATAFLOW/assets/139331337/058a0d1c-84b4-4f7a-a41e-6f2de684ba38)
+![image](https://github.com/Rohithvijay01/ENCODER8TO3DATAFLOW/assets/144871015/8ace5ae0-ad62-4715-8a20-03712f924c69)
+
 
 **RESULTS**
 Thus the code is ececuted successfully.
